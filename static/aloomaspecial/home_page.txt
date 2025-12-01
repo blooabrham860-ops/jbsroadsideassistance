@@ -1,0 +1,43 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma">1. Do I need to register as a member before I can use your service?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No, you don’t need to register or sign up for a membership before using Roadside Assistance #State. We offer pay-per-use roadside assistance for anyone in need, whether you’re a regular driver, truck operator, or logistics company. Membership options are available for customers who want faster priority dispatch and discounted rates</p>
+                <h4 class="template4 palooma">2. Do you cover all the roads in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Roadside Assistance #State covers every major road, highway, and local route across #State. Our technicians are strategically stationed throughout the area, including remote routes and smaller towns that most roadside companies overlook.</p>
+                <h4 class="template4 palooma">3. Can you tow my vehicle to my preferred mechanic?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. When you call for towing service, our technician will ask for your preferred destination, be it your trusted mechanic, dealership, or repair center.</p>
+                <h4 class="template4 palooma">4. Do you attend to emergencies at night?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Roadside Assistance #State operates 24 hours a day, 7 days a week, including weekends and holidays. We’re always on standby to respond quickly to emergencies like dead batteries, flat tires, fuel delivery, or car lockouts.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-361-8387">Click Here To Call Us (870) 361-8387</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
